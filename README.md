@@ -47,3 +47,7 @@ I've been learning to code for 7 years, starting with HTML and CSS in 10th grade
 <a href="http://www.github.com/bensengilbert"><img src="https://activity-graph.herokuapp.com/graph?username=bensengilbert&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/bensengilbert" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensengilbert&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/bensengilbert"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
